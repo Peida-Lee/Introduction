@@ -1,2 +1,3 @@
-    name: Peida_Lee's Introduction
-    markdown: kramdown
+name: Peida_Lee's Introduction
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
