@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Peida_Lee's Introduction"
 date: 2024-09-27
 ---
