@@ -4,5 +4,5 @@ title: "Peida_Lee's Picture"
 date: 2024-10-08
 ---
 
- ![Image description](./path/to/image.png)
+  ![Image](./Pictures/picture_1.jpg)
     This is my picture
