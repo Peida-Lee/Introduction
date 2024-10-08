@@ -5,4 +5,4 @@ date: 2024-10-08
 ---
 
  ![image](https://github.com/Peida-Lee/peida-lee.github.io/blob/main/Pictures/Picture_1.jpg)
-    <p>This is my picture</p >
+    This is my picture
